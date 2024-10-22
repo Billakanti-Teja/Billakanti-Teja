@@ -18,11 +18,11 @@ I am a passionate **software Development Engineer** and **Machine Learning enthu
 
 Here are the technologies I am skilled in:
 
-![Java](![image](https://github.com/user-attachments/assets/253582d4-e306-4c33-b7b0-b72ff49b04ca))
-![Python](![image](https://github.com/user-attachments/assets/30bd15bc-30fb-4236-98bb-bcea4b2b3c52))
-![HTML5](![image](https://github.com/user-attachments/assets/24ce30de-24a6-491e-b892-81d82ec5ed54))
-![CSS3](![image](https://github.com/user-attachments/assets/8bd10b48-7caa-4560-abb0-0b88a9bd54b0))
-![AWS S3](![image](https://github.com/user-attachments/assets/dd94af8a-38d1-4e57-a774-38e9ff2dda7f))
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -46,7 +46,7 @@ Here are the technologies I am skilled in:
 
 ## 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BILLAKANTI TEJA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billakanti-teja-b376b7251/)
 
 
 ---
