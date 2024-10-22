@@ -1,7 +1,7 @@
 # Hi there, I'm Billakanti Teja 👋
 
 
-I am a passionate **software Development Engineer** and **Machine Learning enthusiast** skilled in Java, Python, HTML, CSS, and AWS S3. I love building solutions that combine cutting-edge technologies to solve real-world problems. Currently, I’m diving deep into **machine learning** projects and developing powerful data-driven applications.
+I am a passionate **software Development Engineer** and **Machine Learning enthusiast** skilled in Java, Python, SQL, Spring Boot and AWS S3. I love building solutions that combine cutting-edge technologies to solve real-world problems. Currently, I’m diving deep into **machine learning** projects and developing powerful data-driven applications.
 
 ---
 
