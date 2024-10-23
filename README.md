@@ -1,16 +1,16 @@
 # Hi there, I'm Billakanti Teja 👋
 
 
-I am a passionate **software Development Engineer** and **Machine Learning enthusiast** skilled in Java, Python, SQL, Spring Boot and AWS S3. I love building solutions that combine cutting-edge technologies to solve real-world problems. Currently, I’m diving deep into **machine learning** projects and developing powerful data-driven applications.
+I am a passionate Software Development and Machine Learning enthusiast, currently pursuing my Bachelor's degree. With strong skills in Java, Python, SQL, Spring Boot, and AWS S3, I enjoy crafting innovative solutions that harness the power of modern technologies to address real-world challenges. At present, I'm deeply engaged in machine learning projects and focused on developing impactful, data-driven applications
 
 ---
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently working on **Machine Learning projects**, **real-time data processing systems**, **Spring Boot**.
+- 🔭 I’m currently working on **Machine Learning projects**, **real-time data processing systems**, and **Spring Boot** applications.
 - 🌱 I’m continuously learning and exploring new technologies like **data visualization**, **cloud computing**, and **deep learning**.
-- 💬 Ask me about **Java**, **Python**, **AWS S3**, or **web development**.
-- ⚡ Fun fact: I love working on futuristic projects using **Spring boot**.
+- 💬 Ask me about **Java**, **Python**, **AWS S3**, or **Backend development**.
+- ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 🐛💻.
 
 ---
 
