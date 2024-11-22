@@ -31,11 +31,17 @@ Here are the technologies I am skilled in:
 
 ## 🌟 **Current Projects**
 
-### 1. **Real-time Weather Monitoring System** ⛅
+### 1. **Bank Statement Aggregator** 
+- **Stack**: Java, MySQL, Spring boot, Postman, SQL
+- Developed a system that aggregates bank statements for users from multiple branches of various banks.
+- The system will handle the generation of bank statements, upload these to an AWS S3 bucket and later allows users to download and convert these statements into java objects for storage 
+  in a database.
+
+### 2. **Real-time Weather Monitoring System** ⛅
 - **Stack**: Java, MySQL, OpenWeatherMap API, HTML, CSS, JavaScript, Spring boot
 - A real-time system that processes and visualizes weather data, generates daily summaries, and triggers alerts for weather thresholds.
 
-### 2. **Rule Engine with AST** 📐
+### 3. **Rule Engine with AST** 📐
 - **Stack**: Java, AST, Spring boot, MySQL
 - Building a Rule Engine that evaluates rules using Abstract Syntax Trees (AST) for dynamic evaluation.
 
