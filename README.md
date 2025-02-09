@@ -47,7 +47,7 @@ Here are the technologies I am skilled in:
 
 ## 📈 **GitHub Stats**
 
-![Billakanti Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=radical)
+![Billakanti Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=radical&v=1)
 
 ---
 
