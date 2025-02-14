@@ -45,11 +45,34 @@ Here are the technologies I am skilled in:
 
 ---
 
-## 📈 **GitHub Stats**
+## ⚡ Current Stats ⚡  
 
-![Billakanti Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=radical&v=1)
+<div align="center">
+  
+ <a href="https://github.com/Billakanti-Teja">
+    <img width="49%" src="https://streak-stats.demolab.com?user=Billakanti-Teja&theme=tokyonight&border=FFFFFF&ring=5AC8FA&fire=5AC8FA&currStreakLabel=5AC8FA&sideNums=5AC8FA&sideLabels=5AC8FA&dates=FFFFFF&contribs=5AC8FA&streaks=5AC8FA&text_color=5AC8FA&title_color=0000FF&currStreakNum=5AC8FA" />
+</a>
+
+
+ <a href="https://github.com/Billakanti-Teja">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight&border_color=FFFFFF&icon_color=FFD700&text_color=FFFFFF&title_color=5AC8FA" />
+</a>
+
+
+  <a href="https://github.com/Billakanti-Teja">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight&border_color=FFFFFF&text_color=FFFFFF&title_color=5AC8FA" />
+  </a>
+
+</div>
+
+
+
+
+
+
 
 ---
+
 
 ## 📫 **Let's Connect**
 
