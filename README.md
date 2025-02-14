@@ -63,16 +63,6 @@ Here are the technologies I am skilled in:
 
 </div>  
 
-<!-- Auto Refresh Script -->
-<script>
-    setInterval(function() {
-        document.getElementById("github-streak").src = "https://streak-stats.demolab.com?user=Billakanti-Teja&theme=tokyonight&cache_seconds=86400&t=" + new Date().getTime();
-        document.getElementById("github-stats").src = "https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight&cache_seconds=86400&t=" + new Date().getTime();
-        document.getElementById("github-langs").src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight&cache_seconds=86400&t=" + new Date().getTime();
-    }, 60000); // Refresh every 60 seconds
-</script>
-
-
 
 
 
