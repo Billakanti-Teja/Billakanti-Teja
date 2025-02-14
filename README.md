@@ -49,22 +49,28 @@ Here are the technologies I am skilled in:
 
 <div align="center">
   
- <a href="https://streak-stats.demolab.com/?user=Billakanti-Teja">
-    <img width="49%" src="https://streak-stats.demolab.com?user=Billakanti-Teja&theme=tokyonight&border=FFFFFF&ring=5AC8FA&fire=5AC8FA&currStreakLabel=5AC8FA&sideNums=5AC8FA&sideLabels=5AC8FA&dates=FFFFFF&contribs=5AC8FA&streaks=5AC8FA&text_color=5AC8FA&title_color=0000FF&currStreakNum=5AC8FA" />
-</a>
-
- <a href="https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight&border_color=FFFFFF&icon_color=FFD700&text_color=FFFFFF&title_color=5AC8FA" />
-</a>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight&border_color=FFFFFF&text_color=FFFFFF&title_color=5AC8FA" />
+  <a href="https://streak-stats.demolab.com/?user=Billakanti-Teja">
+    <img id="github-streak" width="49%" src="https://streak-stats.demolab.com?user=Billakanti-Teja&theme=tokyonight&border=FFFFFF&ring=5AC8FA&fire=5AC8FA&currStreakLabel=5AC8FA&sideNums=5AC8FA&sideLabels=5AC8FA&dates=FFFFFF&contribs=5AC8FA&streaks=5AC8FA&text_color=5AC8FA&title_color=0000FF&currStreakNum=5AC8FA&cache_seconds=86400" />
   </a>
 
-</div>
+  <a href="https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight">
+    <img id="github-stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight&border_color=FFFFFF&icon_color=FFD700&text_color=FFFFFF&title_color=5AC8FA&cache_seconds=86400" />
+  </a>
 
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight">
+    <img id="github-langs" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight&border_color=FFFFFF&text_color=FFFFFF&title_color=5AC8FA&cache_seconds=86400" />
+  </a>
 
+</div>  
 
+<!-- Auto Refresh Script -->
+<script>
+    setInterval(function() {
+        document.getElementById("github-streak").src = "https://streak-stats.demolab.com?user=Billakanti-Teja&theme=tokyonight&cache_seconds=86400&t=" + new Date().getTime();
+        document.getElementById("github-stats").src = "https://github-readme-stats.vercel.app/api?username=Billakanti-Teja&show_icons=true&theme=tokyonight&cache_seconds=86400&t=" + new Date().getTime();
+        document.getElementById("github-langs").src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Billakanti-Teja&layout=compact&theme=tokyonight&cache_seconds=86400&t=" + new Date().getTime();
+    }, 60000); // Refresh every 60 seconds
+</script>
 
 
 
