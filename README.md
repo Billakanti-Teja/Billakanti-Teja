@@ -1,7 +1,7 @@
 # Hi there, I'm Billakanti Teja 👋
 
 
-I am a passionate Software Development and Machine Learning enthusiast, currently pursuing my Bachelor's degree. With strong skills in Java, Python, SQL, Spring Boot, and AWS S3, I enjoy crafting innovative solutions that harness the power of modern technologies to address real-world challenges. At present, I'm deeply engaged in machine learning projects and focused on developing impactful, data-driven applications
+I am a passionate Software Development and Machine Learning enthusiast, currently pursuing my Bachelor's degree. With strong skills in Java, Python, SQL, Spring Boot, and AWS S3, I enjoy crafting innovative solutions that harness the power of modern technologies to address real-world challenges. At present, I'm deeply engaged in machine learning projects and focused on developing impactful, data-driven applications.
 
 ---
 
@@ -39,9 +39,6 @@ Here are the technologies I am skilled in:
 - **Stack**: Java, MySQL, OpenWeatherMap API, HTML, CSS, JavaScript, Spring boot
 - A real-time system that processes and visualizes weather data, generates daily summaries, and triggers alerts for weather thresholds.
 
-### 3. **Rule Engine with AST** 📐
-- **Stack**: Java, AST, Spring boot, MySQL
-- Building a Rule Engine that evaluates rules using Abstract Syntax Trees (AST) for dynamic evaluation.
 
 ---
 
