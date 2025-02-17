@@ -68,7 +68,7 @@ Here are the technologies I am skilled in:
 
 ## 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billakanti-teja-b376b7251/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-billakanti-b376b7251/)
 
 
 ---
