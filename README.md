@@ -25,22 +25,6 @@ Here are the technologies I am skilled in:
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
----
-
-## 🌟 **Current Projects**
-
-### 1. **Bank Statement Aggregator** 
-- **Stack**: Java, MySQL, Spring boot, Postman, SQL
-- Developed a system that aggregates bank statements for users from multiple branches of various banks.
-- The system will handle the generation of bank statements, upload these to an AWS S3 bucket and later allows users to download and convert these statements into java objects for storage 
-  in a database.
-
-### 2. **Real-time Weather Monitoring System** ⛅
-- **Stack**: Java, MySQL, OpenWeatherMap API, HTML, CSS, JavaScript, Spring boot
-- A real-time system that processes and visualizes weather data, generates daily summaries, and triggers alerts for weather thresholds.
-
-
----
 
 ## ⚡ Current Stats ⚡  
 
